@@ -1,7 +1,7 @@
 # Customer Churn Analytics for the Banking Industry
 ## 📌 Project Overview
 
-This project was completed as part of my **internship** and focuses on analyzing customer churn in the banking sector using data analytics. The aim is to identify patterns and metrics that help financial institutions understand why customers leave and how to reduce churn.
+This project was completed as part of my **internship** and focuses on analyzing customer churn in the banking sector using SQL. The aim is to identify patterns and metrics that help financial institutions understand why customers leave and how to reduce churn.
 
 ## 🧠 Key Objectives
 
@@ -13,10 +13,8 @@ This project was completed as part of my **internship** and focuses on analyzing
 ## 🏢 Internship Context
 
 - **Project Type**: Internship Project
-- **Role**: Data Analyst Intern
-- **Tools Used**: PowerPoint, Excel/SQL (assumed based on presentation format)
-- **Duration**: [Add your internship duration here]
-- **Mentor/Guide**: [Optional]
+- **Role**: Business Analyst Intern
+- **Tools Used**: PowerPoint, Excel, SQL
 
 ## 📊 Dataset
 
